@@ -36,8 +36,8 @@ Las condiciones que entiende Doky son las siguientes:
 
 #Imagenes
 
-![Mundo 1](https://github.com/developeralta/java/dachshund/Mundo1.png)
-![Mundo 2](https://github.com/developeralta/java/dachshund/Mundo2.png)
-![Mundo 3](https://github.com/developeralta/java/dachshund/Mundo3.png)
-![Programa](https://github.com/developeralta/java/dachshund/Programa.png)
-![Ganador](https://github.com/developeralta/java/dachshund/Ganador.png)
+![Mundo 1](https://github.com/developeralta/java/blob/master/Dachshund/Ganador.png)
+![Mundo 2](https://github.com/developeralta/java/blob/master/Dachshund/Mundo2.png)
+![Mundo 3](https://github.com/developeralta/java/blob/master/Dachshund/Mundo3.png)
+![Programa](https://github.com/developeralta/java/blob/master/Dachshund/Programa.png)
+![Ganador](https://github.com/developeralta/java/blob/master/Dachshund/Ganador.png)
